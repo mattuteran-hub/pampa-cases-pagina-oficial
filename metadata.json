@@ -1,0 +1,6 @@
+{
+  "name": "Pampa Cases",
+  "description": "Nuestra identidad, en cada detalle. Fundas para iPhone con diseños originales inspirados en la cultura argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
